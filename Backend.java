@@ -5,16 +5,7 @@ import java.util.List;
 import java.util.Random;
 import java.util.Scanner;
 
-/**
- * Backend for a Jordle game.
- *
- * Use this class to implement your Jordle application for HW09!
- *
- * DO NOT MODIFY THIS FILE!
- *
- * @author CS 1331 TAs
- * @version 13.31
- */
+
 public class Backend {
 
     private static final int WORD_LENGTH = 5;
