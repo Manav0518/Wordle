@@ -1,0 +1,13 @@
+# Jordle 🎮
+
+Jordle is a clone of the popular word game Wordle.  
+The goal: guess the hidden 5-letter word!
+
+---
+
+## 🚀 Features
+- Wordle-style gameplay (green = correct, yellow = wrong spot, gray = not in word).
+- Simple, clean code written in Java.
+
+
+
